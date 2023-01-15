@@ -7,7 +7,7 @@ npm i ng-inline-svg-g
 ```
 # Usage
 
-just need to add NgInlineSvgGModule to your list of module imports : 
+Just need to add NgInlineSvgGModule to your list of module imports : 
 ```bash
 import { NgInlineSvgGModule } from 'ng-inline-svg-g';
 
@@ -18,7 +18,7 @@ bootstrap: [AppComponent]
 })
 class AppModule {}
 ```
-then you can use it in your templates: 
+Then you can use it in your templates: 
 
 ```bash
 @Component({
